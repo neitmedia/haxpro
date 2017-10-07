@@ -1,4 +1,4 @@
-**H**igh **A**ltitude E**X**ploration **Pro**be II
+#**H**igh **A**ltitude E**X**ploration **Pro**be II
 
 *Barometric Pressure Sensor:* BMP180
 
