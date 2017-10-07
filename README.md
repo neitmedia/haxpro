@@ -1,7 +1,7 @@
-# haxpro
+# *H*igh *A*ltitude E*X*ploration *Pro*be II
 
-_Barometric Pressure Sensor:_ BMP180
+*Barometric Pressure Sensor:* BMP180
 
-_Humidity and Temperature Sensor:_ Si7021
+*Humidity and Temperature Sensor:* Si7021
 
-_IMU 9DoF:_ MPU-9250
+*IMU 9DoF:* MPU-9250
