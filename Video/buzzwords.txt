@@ -1,0 +1,12 @@
+Font: Calibri Light
+Text: Fast fade-in, slow fade-out, visible 5 seconds
+
+
+00:16 Test Flight in 2017
+00:37 Embedded Systems
+00:46 Low Power Sensorics
+00:51 Full HD Video Recording
+01:04 Custom PCB Design
+01:29 Open Source Communication
+01:44 On-site Testing
+02:28 System Launch: April 2018
