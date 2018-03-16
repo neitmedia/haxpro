@@ -1,0 +1,12 @@
+
+gqrx
+
+working dl-fldigi fork:
+compilation procedure (tested on Arch Linux):
+git clone https://github.com/hexameron/dl-fldigi
+cd dl-fldigi
+git submodule init
+git submodule update
+autoreconf -vfi
+./configure --disable-flarq --enable-optimizations=native
+make
